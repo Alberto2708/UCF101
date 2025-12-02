@@ -1,18 +1,24 @@
-# Momento de Retroalimentación: Módulo 2 Implementación de un modelo de deep learning. (Portafolio Implementación)
+# Momento de Retroalimentación: Módulo 2 — Implementación de un modelo de deep learning (Portafolio Implementación)
 
-## Carlos Alberto mentado Reyes 
+## Carlos Alberto Mentado Reyes  
 ## A01276065
 
-<p>Hice un cambio del repo original porque quería usar el package manager uv <br> 
-Después vi que teníamos que entregar un ipynb y no un python file, por lo que ya tenía mucho hecho y reinicié mi repo </p>
+Hice un cambio del repo original porque quería usar el package manager **uv**.  
+Después vi que teníamos que entregar un **ipynb** y no un python file, por lo que ya tenía mucho hecho y reinicié mi repo.
 
-### Como correr el repositorio
-<p> El pipeline no funcionará en el momento, dentro del gitignore incluí <code>pkl<code> para no <br>
-subir el dataset al repositorio los pasos a seguir son:
+---
 
-- [Descargar el dataset] (https://download.openmmlab.com/mmaction/v1.0/skeleton/data/ucf101_2d.pkl) 
-- Incluir el archivo .pkl dentro del directorio para que quede de esta forma <code>dataset\ucf101_2d.pkl<code>
-- Listo
+## Cómo correr el repositorio
+
+El pipeline no funcionará en el momento, dentro del `.gitignore` incluí `pkl` para no subir el dataset al repositorio.  
+Los pasos a seguir son:
+
+- [Descargar el dataset](https://download.openmmlab.com/mmaction/v1.0/skeleton/data/ucf101_2d.pkl)  
+- Incluir el archivo `.pkl` dentro del directorio para que quede de esta forma:
+
+  ```text
+  dataset/ucf101_2d.pkl
+
 
 ### Como funciona el pipeline
 
