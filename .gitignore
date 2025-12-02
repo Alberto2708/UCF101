@@ -1,6 +1,5 @@
 .venv/
-dataset/
+*pkl
 
 __pycache__/
 
-dataset
