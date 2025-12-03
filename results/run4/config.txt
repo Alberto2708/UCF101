@@ -1,0 +1,9 @@
+EXPERIMENT: run4
+run_name: run4
+batch_size: 64
+learning_rate: 0.01
+num_epochs: 10
+split_num: 1
+person_strategy: max_conf
+num_classes_subset: 10
+timestamp: 2025-12-02 18:51:59

@@ -1,0 +1,8 @@
+TRAINING SUMMARY - run1
+Best Validation Accuracy: 0.7377
+Final Train Accuracy: 0.7679
+Final Val Accuracy: 0.7158
+
+Final Losses:
+  Train Loss: 0.6037
+  Val Loss: 0.7652

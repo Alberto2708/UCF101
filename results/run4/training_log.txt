@@ -1,0 +1,8 @@
+TRAINING SUMMARY - run4
+Best Validation Accuracy: 0.4627
+Final Train Accuracy: 0.4416
+Final Val Accuracy: 0.4165
+
+Final Losses:
+  Train Loss: 1.4965
+  Val Loss: 1.5231
